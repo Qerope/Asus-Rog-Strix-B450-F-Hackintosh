@@ -1,0 +1,8 @@
+AMDRyzenCPUPowerManagement.kext V0.6.4
+AppleALC.kext V1.5.0
+AppleMCEReporterDisabler.kext V1.2
+Lilu.kext V1.4.5
+SmallTreeIntel82576.kext V1.0
+SMCAMDProcessor.kext V1.0
+VirtualSMC.kext V1.1.4
+WhateverGreen.kext V1.4.0
