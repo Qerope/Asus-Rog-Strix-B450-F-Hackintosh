@@ -45,9 +45,9 @@ OpenCore 0.6 Configuration for Asus Rog Strix B450-F Motherboard
   <th>
     Wireless Connectivity
   <th>
-    Front USB Ports
+    Front USB Ports (partially working)
   <th>
-    Red USB Ports
+    Red USB Ports (partially working)
   </table>
     
 <h5>
