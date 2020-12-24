@@ -1,11 +1,11 @@
 # Asus-Rog-Strix-B450-F-Hackintosh
 ![Screenshot](Screenshot.png)
 <h3>
-OpenCore 0.6 Configuration for Asus Rog Strix B450-F Motherboard
+OpenCore 0.6.3 Configuration for Asus Rog Strix B450-F Motherboard
 </h3>
 <h4>
   Currently tested versions:
-  macOS Mojave, Catalina, BigSur Developer Beta 1
+  macOS Mojave, Catalina, BigSur
 </h4>
 <h5>
   <table>
