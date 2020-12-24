@@ -1,4 +1,4 @@
-# Asus-Rog-Strix-B450-F-Hackintosh
+# Asus Rog Strix B450-F Hackintosh
 ![Screenshot](Screenshot.png)
 <h3>
 OpenCore 0.6.3 Configuration for Asus Rog Strix B450-F Motherboard
