@@ -1,7 +1,7 @@
 # Asus Rog Strix B450-F Hackintosh
 ![Screenshot](Screenshot.png)
 <h3>
-OpenCore 0.6.3 Configuration for Asus Rog Strix B450-F Motherboard
+OpenCore 0.6.4 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-2000-3000 (Ryzen 5000 needs further configurations, Please let me know if needed)
 </h3>
 <h4>
   Currently tested versions:
