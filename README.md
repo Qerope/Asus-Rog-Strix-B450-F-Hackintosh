@@ -1,5 +1,4 @@
 # Asus Rog Strix B450-F Hackintosh
-<h2>Catalina Screenshot
 ![Catalina Screenshot](Screenshot-Catalina.png)
 ![BigSur Screenshot](Screenshot-BigSur.png)
 <h3>
