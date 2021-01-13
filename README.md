@@ -1,5 +1,7 @@
 # Asus Rog Strix B450-F Hackintosh
-![Screenshot](Screenshot.png)
+<h2>Catalina Screenshot
+![Catalina Screenshot](Screenshot-Catalina.png)
+![BigSur Screenshot](Screenshot-BigSur.png)
 <h3>
 OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-2000-3000-5000
 </h3>
