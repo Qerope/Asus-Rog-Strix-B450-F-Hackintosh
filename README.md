@@ -6,6 +6,7 @@ OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-20
 <h4>
   Currently tested versions:
   macOS Mojave, Catalina, BigSur
+  ** Rename public.config.plist to config.plist **
 </h4>
 <h5>
   <table>
@@ -36,18 +37,26 @@ OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-20
     Ethernet Connection
   <th>
     NVMe and Sata Drives
+  <th>
+    Almost Anything...
   </tr>
   </table>
 <h5>
   <table>
   <tr>
-  Not Working:
-  <th>
-    Wireless Connectivity
+  Partially Working:
   <th>
     Front USB Ports (partially working)
   <th>
     Red USB Ports (partially working)
+  </table>
+
+<h5>
+  <table>
+  <tr>
+  Not Working:
+  <th>
+    Wireless Connectivity (BT,WIFI)
   </table>
 
 <h5>

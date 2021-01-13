@@ -1779,7 +1779,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 npci=0x2000 alcid=7 nvme=-1</string>
+				<string>keepsyms=1 debug=0x100 npci=0x2000 alcid=7</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -1850,7 +1850,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C020123034NJG361M</string>
+			<string>C020123XXXXXXXXXX</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1860,9 +1860,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CG0WKHX87</string>
+			<string>C02CGXXXXXXX</string>
 			<key>SystemUUID</key>
-			<string>53196187-EDE5-4E83-82F3-D152ADD3B467</string>
+			<string>53196187-XXXX-XXXX-XXXX-D152ADDXXXX</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
