@@ -1,7 +1,7 @@
 # Asus Rog Strix B450-F Hackintosh
 ![Screenshot](Screenshot.png)
 <h3>
-OpenCore 0.6.4 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-2000-3000 (Ryzen 5000 needs further configurations, Please let me know if needed)
+OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-2000-3000-5000
 </h3>
 <h4>
   Currently tested versions:
@@ -49,8 +49,7 @@ OpenCore 0.6.4 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-20
   <th>
     Red USB Ports (partially working)
   </table>
-    
+
 <h5>
-  I added "nvme=-1" flag to my configuration in order to disable the NVMe drive, Remove this boot arg if you need NVMe drive in macOS<br>
   Change "MLB" (Main Board Serial Number), "SerialNumber" and "UUID" with another one using "genSMBIOS" tool<br>
   This configuration can also be used with B450i Motherboard from Asus (Audio pci root should be modified)
