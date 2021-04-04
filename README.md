@@ -7,7 +7,6 @@ OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-20
 <h4>
   Currently tested versions:
   macOS Mojave, Catalina, BigSur
-  ** Rename public.config.plist to config.plist **
 </h4>
 <h5>
   <table>
