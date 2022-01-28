@@ -5,21 +5,22 @@
 OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-2000-3000-5000
 </h3>
 <h4>
-  Currently tested versions:
+  Tested:
   macOS Mojave, Catalina, BigSur
+  <br>
+  * I did not bother to update the config to for macOS Monterey as there are stability problems with the on-board ethernet.<br>
+  * Loading up macOS Mojave may need some additional work.
 </h4>
 <h5>
   <table>
   <tr>
   My Configuration:
     <th>
-      AMD Ryzen 3600x
+      Ryzen 3600x
     <th>
-      MSI Armor OC RX580
+      MSI RX588
     <th>
-      Teamgroup Delta 16GB 3200MHz
-    <th>
-      Silicon Power Sata 128GB SSD
+      16GB 3200MHz
   </table>
 <h5>
   <table>
@@ -38,25 +39,8 @@ OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-20
   <th>
     NVMe and Sata Drives
   <th>
-    Almost Anything...
+    Almost Everything...
   </tr>
-  </table>
-<h5>
-  <table>
-  <tr>
-  Partially Working:
-  <th>
-    Front USB Ports (partially working)
-  <th>
-    Red USB Ports (partially working)
-  </table>
-
-<h5>
-  <table>
-  <tr>
-  Not Working:
-  <th>
-    Wireless Connectivity (BT,WIFI)
   </table>
 
 <h5>
