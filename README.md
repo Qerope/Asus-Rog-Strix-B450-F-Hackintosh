@@ -8,19 +8,20 @@ OpenCore 0.6.5 Configuration for Asus Rog Strix B450-F Motherboard Ryzen 1000-20
   Tested:
   macOS Mojave, Catalina, BigSur
   <br>
-  * I did not bother to update the config to for macOS Monterey as there are stability problems with the on-board ethernet.<br>
-  * Loading up macOS Mojave may need some additional work.
+  * I did not bother to update the config to for macOS Monterey as there are stability problems with the on-board ethernet.
+  <a href="https://github.com/donatengit/AppleIGB">probable fix</a><br>
+  * macOS Mojave may need some additional work.
 </h4>
 <h5>
   <table>
   <tr>
   My Configuration:
     <th>
+      Rog B450-F
+    <th>
       Ryzen 3600x
     <th>
       MSI RX588
-    <th>
-      16GB 3200MHz
   </table>
 <h5>
   <table>
